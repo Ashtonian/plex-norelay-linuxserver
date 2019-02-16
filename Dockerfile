@@ -1,4 +1,4 @@
-FROM plexinc/pms-docker
+FROM plexinc/pms-docker:plexpass
 
 MAINTAINER edifus <edifus@gmail.com>
 
