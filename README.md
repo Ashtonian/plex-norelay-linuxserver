@@ -1,5 +1,5 @@
 # plex-norelay
 
-Based on linuxserver.io Plex container with 'Plex Relay' binary removed
+Based on the official Plex container with 'Plex Relay' binary removed
 
-[Instructions](https://hub.docker.com/r/linuxserver/plex/)
+[Instructions](https://hub.docker.com/r/plexinc/pms-docker/)
