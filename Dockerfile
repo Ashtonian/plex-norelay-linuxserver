@@ -1,5 +1,4 @@
-FROM plexinc/pms-docker:plexpass
-
+FROM plexinc/pms-docker
 MAINTAINER edifus <edifus@gmail.com>
 
 # add script to remove plex relay
