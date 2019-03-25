@@ -6,4 +6,4 @@ Based on the linuxserver/plex Plex container with 'Plex Relay' binary removed
 
 
 ## looking for no-relay official image? 
-[plex-relay](https://github.com/edifus/plex-norelay)
+[plex-norelay](https://github.com/edifus/plex-norelay)
